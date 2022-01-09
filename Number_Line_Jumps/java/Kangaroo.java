@@ -1,4 +1,4 @@
-class Test {
+class Kangaroo {
 
     public static void main(String[] args) {
         // Algunos casos de prueba.
