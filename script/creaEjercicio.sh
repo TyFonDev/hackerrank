@@ -23,7 +23,7 @@ javascript() {
   mkdir javascript
   cd javascript
   touch index.js
-  cd ..
+  cd ../..
 }
 
 java() {
@@ -31,7 +31,7 @@ java() {
   mkdir java
   cd java
   touch Test.java
-  cd ..
+  cd ../..
 }
 
 echo "Crear carpeta Javascript?"
